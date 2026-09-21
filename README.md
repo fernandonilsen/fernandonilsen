@@ -2,7 +2,7 @@
 
 # ⚡ FERNANDO PEREIRA NILSEN
 
-### `T.I. • ROBÓTICA • TECNOLOGIA`
+### `T.I. • ADS • SUPORTE`
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&duration=3000&pause=900&color=00F7FF&center=true&vCenter=true&width=700&lines=Tecnologia+%7C+Rob%C3%B3tica+%7C+Inova%C3%A7%C3%A3o;Construindo+ideias+com+tecnologia;Fernando+Pereira+Nilsen" alt="Typing Animation" />
 
@@ -29,7 +29,7 @@ Este espaço reúne café e meus estudos em Análise e Desenvolvimento de Softwa
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg](https://static.vecteezy.com/system/resources/thumbnails/027/127/463/small_2x/javascript-logo-javascript-icon-transparent-free-png.png)" height="40" alt="js logo"  />
 </div>
 
 ---
