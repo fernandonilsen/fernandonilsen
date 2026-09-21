@@ -22,14 +22,22 @@ Este espaço reúne café e meus estudos em Análise e Desenvolvimento de Softwa
 > `SYSTEM ONLINE // TECHNOLOGY MODE: ACTIVE`
 
 ---
-## 🧠 Área & Tecnologia
+## 🧠 Área & Tecnologias
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg](https://static.vecteezy.com/system/resources/thumbnails/027/127/463/small_2x/javascript-logo-javascript-icon-transparent-free-png.png)" height="40" alt="js logo"  />
+<div align="center">
+
+<img src="https://img.shields.io/badge/Área-T.I.-00F7FF?style=for-the-badge&logo=computer&logoColor=000000" />
+<img src="https://img.shields.io/badge/Foco-Robótica-FF00FF?style=for-the-badge&logo=arduino&logoColor=white" />
+<img src="https://img.shields.io/badge/Estilo-Cyberpunk-7A00FF?style=for-the-badge&logo=github&logoColor=white" />
+
+<br><br>
+
+### 💻 Tecnologias
+
+<img src="https://skillicons.dev/icons?i=html" height="50" />
+<img src="https://skillicons.dev/icons?i=css" height="50" />
+<img src="https://skillicons.dev/icons?i=javascript" height="50" />
+
 </div>
 
 ---
