@@ -22,14 +22,6 @@ Este espaço reúne café e meus estudos em Análise e Desenvolvimento de Softwa
 > `SYSTEM ONLINE // TECHNOLOGY MODE: ACTIVE`
 
 ---
-## 🧠 Área & Tecnologias
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,javascript,python,arduino,git,github" height="50" />
-
-<br><br>
----
 
 # 🔥 GitHub Streak
 
