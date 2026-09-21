@@ -37,22 +37,11 @@ Este espaço reúne meus projetos, experimentos e trabalhos relacionados ao univ
 
 ## 🧠 Área & Tecnologia
 
-<div align="center">
+###
 
-<img src="https://img.shields.io/badge/Área-T.I.-00F7FF?style=for-the-badge&logo=computer&logoColor=000000" />
-<img src="https://img.shields.io/badge/Foco-Robótica-FF00FF?style=for-the-badge&logo=arduino&logoColor=white" />
-<img src="https://img.shields.io/badge/Estilo-Cyberpunk-7A00FF?style=for-the-badge&logo=github&logoColor=white" />
+<p align="left">📚 I'm currently learning HTML5<br>🎯 Goals: code Python by the end of the year 2024<br>👨‍🎓 Bachelor in Biology - UFPR / Specilist in Neurolearning - São Braz / <br>Master in Agricultural Sciences - Animal Welfare - UFPR<br><br><br>📚 Working on Education 📚</p>
 
-</div>
-
-### 🛠️ Tecnologia
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Robótica-00F7FF?style=for-the-badge&logo=arduino&logoColor=000000" />
-
-</div>
-
+###
 ---
 
 # 🚀 Projetos
