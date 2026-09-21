@@ -7,12 +7,15 @@
 
 Olá! Eu sou **Fernando Pereira Nilsen**.
 
-Atualmente atuo na area de suporte T.I.
+Estudante de Análise e Desenvolvimento de Sistemas.
 
-Este espaço reúne muito café e meus estudos em Análise e Desenvolvimento de Sistemas.
+Profissional de TI com 21 anos de experiência consolidada em suporte técnico, manutenção de hardware, infraestrutura de redes e atendimento ao usuário, sempre tentando transformar ideias em algo que realmente funcione — e, quando não funciona, descobrir por que o computador decidiu me desafiar. 😅
 
-> `SYSTEM ONLINE // TECHNOLOGY MODE: ACTIVE`
+Meu objetivo é evoluir profissionalmente na área de tecnologia, desenvolver projetos cada vez mais interessantes e, principalmente, continuar aprendendo.
 
+💻 Código, café, criatividade e alguns bugs pelo caminho.
+
+🤖 Se funciona de primeira, provavelmente eu esqueci alguma coisa.
 ---
 
 # 🔥 GitHub Streak
