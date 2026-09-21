@@ -11,7 +11,7 @@
 
 # ⚡ FERNANDO PEREIRA NILSEN
 
-### `T.I. • ROBÓTICA • TECNOLOGIA`
+### `T.I. • SUPORTE • TECNOLOGIA`
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&duration=3000&pause=900&color=00F7FF&center=true&vCenter=true&width=700&lines=Tecnologia+%7C+Rob%C3%B3tica+%7C+Inova%C3%A7%C3%A3o;Construindo+ideias+com+tecnologia;Fernando+Pereira+Nilsen" alt="Typing Animation" />
 
@@ -27,7 +27,7 @@
 
 Olá! Eu sou **Fernando Pereira Nilsen**.
 
-Atuo na área de **T.I.**, com interesse e atuação em **Robótica** e tecnologia.
+Atuo na área de **T.I.**, com interesse e atuação em **suporte** e tecnologia.
 
 Este espaço reúne meus projetos, experimentos e trabalhos relacionados ao universo da tecnologia.
 
