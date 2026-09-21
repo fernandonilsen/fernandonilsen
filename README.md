@@ -14,8 +14,6 @@ Profissional de TI com 21 anos de experiência consolidada em suporte técnico, 
 Meu objetivo é evoluir profissionalmente na área de tecnologia, desenvolver projetos cada vez mais interessantes e, principalmente, continuar aprendendo.
 
 💻 Código, café, criatividade e alguns bugs pelo caminho.
-
-🤖 Se funciona de primeira, provavelmente eu esqueci alguma coisa.
 ---
 
 # 🔥 GitHub Streak
