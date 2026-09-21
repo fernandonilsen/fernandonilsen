@@ -26,9 +26,7 @@ Este espaço reúne café e meus estudos em Análise e Desenvolvimento de Softwa
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html" height="50" />
-<img src="https://skillicons.dev/icons?i=css" height="50" />
-<img src="https://skillicons.dev/icons?i=javascript" height="50" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,python,arduino,git,github" height="50" />
 
 <br><br>
 ---
