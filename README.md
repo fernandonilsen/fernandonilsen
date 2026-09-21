@@ -40,24 +40,58 @@ Este espaço reúne café e meus estudos em Análise e Desenvolvimento de Softwa
 </div>
 
 ---
-
-# 📈 Activity Graph
+## 🎓 Formação & Cursos
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=fernandonilsen&bg_color=0D1117&color=00F7FF&line=FF00FF&point=FFFFFF&area=true&hide_border=true" width="100%" />
+### ⚡ Formação Atual
 
-</div>
+<a href="https://venhaparaunicesumar.com.br/graduacao/analise-e-desenvolvimento-de-sistemas">
+
+<img src="https://img.shields.io/badge/UNICESUMAR-ANÁLISE%20E%20DESENVOLVIMENTO%20DE%20SISTEMAS-00F7FF?style=for-the-badge&logo=google-scholar&logoColor=000000" />
+
+</a>
+
+<br><br>
+
+`🔄 EM ANDAMENTO`
+
+**SUPERIOR DE TECNOLOGIA EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS**
 
 ---
 
-# 🏆 GitHub Trophies
+### 🏆 Cursos Concluídos
 
-<div align="center">
+<a href="https://www.cursoemvideo.com/cursos/">
 
-<img src="https://github-profile-trophy.vercel.app/?username=fernandonilsen&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1" />
+<img src="https://skillicons.dev/icons?i=html,css" height="55" />
+
+</a>
+
+### HTML5 & CSS3
+
+**Curso em Vídeo — Gustavo Guanabara**  
+`2026 • CONCLUÍDO`
+
+<br>
+
+<a href="https://www.cursoemvideo.com/curso/curso-de-git-e-github/">
+
+<img src="https://skillicons.dev/icons?i=git,github" height="55" />
+
+</a>
+
+### Git & GitHub
+
+**Curso em Vídeo — Gustavo Guanabara**  
+`2026 • CONCLUÍDO`
 
 </div>
+
+
+---
+
+
 
 ---
 
