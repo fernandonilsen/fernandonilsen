@@ -17,7 +17,7 @@ Olá! Eu sou **Fernando Pereira Nilsen**.
 
 Atualmente atuo na area de suporte T.I.
 
-Este espaço reúne café e meus estudos em Análise e Desenvolvimento de Software.
+Este espaço reúne muito café e meus estudos em Análise e Desenvolvimento de Sistemas.
 
 > `SYSTEM ONLINE // TECHNOLOGY MODE: ACTIVE`
 
